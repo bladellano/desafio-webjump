@@ -1,0 +1,17 @@
+{
+  "name": "Desafio",
+  "description": "Desafio Webjump",
+  "authors": [
+    {
+      "name": "Caio Dellano Nunes da Silva",
+      "email": "bladellano@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Core\\": "core",
+      "Sts\\": "app/sts"
+    }
+  },
+  "require": {}
+}
